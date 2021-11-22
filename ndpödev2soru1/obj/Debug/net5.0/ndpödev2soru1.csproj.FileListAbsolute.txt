@@ -1,0 +1,16 @@
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\bin\Debug\net5.0\ndpödev2soru1.exe
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\bin\Debug\net5.0\ndpödev2soru1.deps.json
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\bin\Debug\net5.0\ndpödev2soru1.runtimeconfig.json
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\bin\Debug\net5.0\ndpödev2soru1.runtimeconfig.dev.json
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\bin\Debug\net5.0\ndpödev2soru1.dll
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\bin\Debug\net5.0\ref\ndpödev2soru1.dll
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\bin\Debug\net5.0\ndpödev2soru1.pdb
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\obj\Debug\net5.0\ndpödev2soru1.csprojAssemblyReference.cache
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\obj\Debug\net5.0\ndpödev2soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\obj\Debug\net5.0\ndpödev2soru1.AssemblyInfoInputs.cache
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\obj\Debug\net5.0\ndpödev2soru1.AssemblyInfo.cs
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\obj\Debug\net5.0\ndpödev2soru1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\obj\Debug\net5.0\ndpödev2soru1.dll
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\obj\Debug\net5.0\ref\ndpödev2soru1.dll
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\obj\Debug\net5.0\ndpödev2soru1.pdb
+C:\Users\Ahmet Arı\source\repos\csharpdeneme\ndpödev2soru1\obj\Debug\net5.0\ndpödev2soru1.genruntimeconfig.cache
