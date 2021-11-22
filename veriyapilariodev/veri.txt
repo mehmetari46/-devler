@@ -1,0 +1,29 @@
+E(185#Levent ozlu)
+E(0#Hasan Demir)
+S(0)
+S(1)
+E(52#Baris Kucuk)
+E(77#ilgin Ak)
+S(1)
+E(1#Okan Sozen)
+E(1#Ekin Pinar)
+S(0)
+E(2#Merve Ulu)
+E(3#Bora Nur)
+S(3)
+E(5#Oguz Uzun)
+S(5)
+E(56#Elanur Albay)
+E(18#Dila ustay)
+S(5353)
+E(74#Tugce Koc)
+E(0#Emir Pay)
+S(0)
+E(4234#Mehmet Emir)
+
+
+
+
+
+
+
